@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitmap_CV", "Bitmap_CV\Bitmap_CV.csproj", "{5FDD591D-8ADB-4789-A028-C266EC0D123B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CVBridge", "CVBridge\CVBridge.vcxproj", "{C854CF2C-F254-451D-8394-9744EBF032A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FDD591D-8ADB-4789-A028-C266EC0D123B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDD591D-8ADB-4789-A028-C266EC0D123B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDD591D-8ADB-4789-A028-C266EC0D123B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5FDD591D-8ADB-4789-A028-C266EC0D123B}.Debug|x64.Build.0 = Debug|Any CPU
+		{5FDD591D-8ADB-4789-A028-C266EC0D123B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5FDD591D-8ADB-4789-A028-C266EC0D123B}.Debug|x86.Build.0 = Debug|Any CPU
+		{5FDD591D-8ADB-4789-A028-C266EC0D123B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDD591D-8ADB-4789-A028-C266EC0D123B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FDD591D-8ADB-4789-A028-C266EC0D123B}.Release|x64.ActiveCfg = Release|Any CPU
+		{5FDD591D-8ADB-4789-A028-C266EC0D123B}.Release|x64.Build.0 = Release|Any CPU
+		{5FDD591D-8ADB-4789-A028-C266EC0D123B}.Release|x86.ActiveCfg = Release|Any CPU
+		{5FDD591D-8ADB-4789-A028-C266EC0D123B}.Release|x86.Build.0 = Release|Any CPU
+		{C854CF2C-F254-451D-8394-9744EBF032A3}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{C854CF2C-F254-451D-8394-9744EBF032A3}.Debug|x64.ActiveCfg = Debug|x64
+		{C854CF2C-F254-451D-8394-9744EBF032A3}.Debug|x64.Build.0 = Debug|x64
+		{C854CF2C-F254-451D-8394-9744EBF032A3}.Debug|x86.ActiveCfg = Debug|Win32
+		{C854CF2C-F254-451D-8394-9744EBF032A3}.Debug|x86.Build.0 = Debug|Win32
+		{C854CF2C-F254-451D-8394-9744EBF032A3}.Release|Any CPU.ActiveCfg = Release|Win32
+		{C854CF2C-F254-451D-8394-9744EBF032A3}.Release|x64.ActiveCfg = Release|x64
+		{C854CF2C-F254-451D-8394-9744EBF032A3}.Release|x64.Build.0 = Release|x64
+		{C854CF2C-F254-451D-8394-9744EBF032A3}.Release|x86.ActiveCfg = Release|Win32
+		{C854CF2C-F254-451D-8394-9744EBF032A3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E4424D9-4B8F-4158-8782-AA043874245A}
+	EndGlobalSection
+EndGlobal
